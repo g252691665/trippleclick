@@ -1,0 +1,2 @@
+# trippleclick
+模拟android系统三击系统版本号打开动画的效果
